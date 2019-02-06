@@ -12,6 +12,7 @@ Find more complete course materials on Deep Learning and accelerated computing o
 
 ### Class logistics
 * Every Mondays 5pm-7pm ; Start - 2/4/2019 ; End - 5/20/2019:
+* Office hours 4pm-5pm ; in the classroom or nearby
 * Location: NIH Building 10, Room B1C205
 * Bring your laptop to the class
 * Recommended textbook: [Deep Learning Book](https://www.deeplearningbook.org/)
